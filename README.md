@@ -112,7 +112,7 @@ The simulation was performed for 10 seconds.
 
 The actual motor position successfully tracks the desired position of 1 rad. A small deviation occurs when the load disturbance is introduced at 5 seconds, after which the controller brings the motor position back toward the reference.
 
-Simulink Model
+## Simulink Model
 ![Simulink Model](simulink_model1.png)
 MATLAB / Control Code
 ![Code](code.png)
